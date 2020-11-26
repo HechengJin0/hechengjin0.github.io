@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+Highly motivated self-starter, with extensive neuroimaging programming experience focused on pipeline development.
+Passionate about brain-behavior relationship research, especially using the neuroimaging data to understand the mental disorders and study individual brains differences.
+
+[[GitHub](https://github.com/HechengJin0)]
+[[Twitter](https://twitter.com/Hecheng_Jin)]
+[[CV](/assets/cv/HechengJin_CV_v3.pdf)]
+
+
+### Software Development
+
+I am an assistant research engineer, who is developing fMRI preprocessing & analysis software, [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/)] at [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/). In this role, I have implemented neuroimaging analysis packages such as AFNI, FSL, ANTs, and FreeSurfer, and contributed to the implementation and maintenance of user interface and data visualization tools for analysis pipelines. 
+
+### Skills
+
+Computer Skills: 		        Python, MATLAB, Shell, Docker, Singularity, AWS
+Neuroimaging Tools: 	        ANTs, AFNI, FSL, FreeSurfer, Nipype, Nilearn
+Native Languages: 		        Korean, Chinese	
+
+
+### Conference
+
+**H. Jin** & X. Li. (2019) “fMRI Preprocessing with Containers: How to run C-PAC in Docker or Singularity.” Brainhack Global, New York, New York. November. [Oral Presentation]
+
+**H. Jin**, S. Giavasis, X. Li, A. Solon, L. Ai, A.R. Franco, J.S. Ramirez, X. Wang, A. Gozzi, M. Pagani, A. Fox, A. Messinger, D.A. Fair, S. Keilholz, B. Russ, T. Xu, R.C. Craddock, M.P. Milham. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_HJ.pdf)]
+
+X. Li, S. Giavasis, **H. Jin** , L. Ai, A. Solon, A. Adebimpe, A.R. Franco, R.A. Poldrack, J.T. Vogelstein, T. Xu, T. Satterthwaite, R.C. Craddock, M.P. Milham. (2020). **Evaluating and Improving Cross-Pipeline Reproducibility in Functional Connectomics: A Case Study.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_XL.pdf)]
+
+
+<!-- ## Publications
+
+M.P. Milham, **H. Jin** , X. Li, Giavasis, S., et al. **Assessing and Overcoming Pipeline-Related Variation in Functional Connectomics.** (in prep)
+
+
+M.P. Milham, **H. Jin** , S. Giavasis, X. Li, A. Solon, L. Ai, A.R. Franco, J.S. Ramirez, X. Wang, A. Gozzi, M. Pagani, A. Fox, A. Messinger, D.A. Fair, S. Keilholz, B. Russ, T. Xu, R.C. Craddock, et al. **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** (in prep)
+ -->
+
+
