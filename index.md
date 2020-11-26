@@ -33,7 +33,7 @@ X. Li, S. Giavasis, **H. Jin** , L. Ai, A. Solon, A. Adebimpe, A.R. Franco, R.A.
 
 **H. Jin** , J.S. Ramirez, J.T. Vogelstein, M.P. Milham, T. Xu. (2021) **Assessing Functional Connectivity Beyond Pearson’s Correlation.** Resting-State Brain Connectivity Conference [[abstract](/assets/abstract/RSBC2020_MGC.pdf)] (under review)
 
-Y.T. Nakamura, Y. Gu, **H. Jin**, S. Kalla. (2020)  **Brain-Computer Interface for the Classification of Brain Activation in Face of Ethical Decision Making.** International Brain-Computer Interface Meeting, Brussel, Belgium. June. [[abstract](/assets/abstract/InternationalBCI2020.pdf)] [Postponed to 2021 due to COVID-19]
+Y.T. Nakamura, Y. Gu, **H. Jin**, S. Kalla. (2020)  **Brain-Computer Interface for the Classification of Brain Activation in Face of Ethical Decision Making.** International Brain-Computer Interface Meeting, Brussel, Belgium. June. [[abstract](/assets/abstract/InternationalBCI2020.pdf)] [Accepted, postponed to 2021 due to COVID-19]
 
 <!-- ## Publications
 
