@@ -16,9 +16,9 @@ I am an assistant research engineer, who is developing fMRI preprocessing & anal
 
 ### Skills
 
-Computer Skills: 		        Python, MATLAB, Shell, Docker, Singularity, AWS
-Neuroimaging Tools: 	        ANTs, AFNI, FSL, FreeSurfer, Nipype, Nilearn
-Native Languages: 		        Korean, Chinese	
+Computer Skills: Python, MATLAB, Shell, Docker, Singularity, AWS
+Neuroimaging Tools: ANTs, AFNI, FSL, FreeSurfer, Nipype, Nilearn
+Native Languages: Korean, Chinese	
 
 
 ### Conference
@@ -29,6 +29,7 @@ Native Languages: 		        Korean, Chinese
 
 X. Li, S. Giavasis, **H. Jin** , L. Ai, A. Solon, A. Adebimpe, A.R. Franco, R.A. Poldrack, J.T. Vogelstein, T. Xu, T. Satterthwaite, R.C. Craddock, M.P. Milham. (2020). **Evaluating and Improving Cross-Pipeline Reproducibility in Functional Connectomics: A Case Study.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_XL.pdf)]
 
+**H. Jin** , J.S. Ramirez, J.T. Vogelstein, M.P. Milham, T. Xu. (2021) **Assessing Functional Connectivity Beyond Pearson’s Correlation.** Resting-State Brain Connectivity Conference [[abstract](/assets/abstract/RSBC2020_MGC.pdf)](under review)
 
 <!-- ## Publications
 
