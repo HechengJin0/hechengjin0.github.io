@@ -25,7 +25,7 @@ Languages: Korean(native), Chinese(native)
 
 ### Conference
 
-**H. Jin** & X. Li. (2019) “fMRI Preprocessing with Containers: How to run C-PAC in Docker or Singularity.” Brainhack Global, New York, New York. November. [Oral Presentation]
+**H. Jin** & X. Li. (2019) **fMRI Preprocessing with Containers: How to run C-PAC in Docker or Singularity.** Brainhack Global, New York, New York. November. [Oral Presentation]
 
 **H. Jin**, S. Giavasis, X. Li, A. Solon, L. Ai, A.R. Franco, J.S. Ramirez, X. Wang, A. Gozzi, M. Pagani, A. Fox, A. Messinger, D.A. Fair, S. Keilholz, B. Russ, T. Xu, R.C. Craddock, M.P. Milham. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** 2020 Organization for Human Brain Mapping Annual Meeting. [[poster](/assets/poster/OHBM20_HJ.pdf)]
 
