@@ -2,6 +2,7 @@
 layout: default
 ---
 
+### Bio
 Highly motivated self-starter, with extensive neuroimaging programming experience focused on pipeline development.
 Passionate about brain-behavior relationship research, especially using the neuroimaging data to understand the mental disorders and study individual brains differences.
 
@@ -10,19 +11,19 @@ Passionate about brain-behavior relationship research, especially using the neur
 [[CV](/assets/cv/HechengJin_CV_v3.pdf)]
 
 
-### Software Development
 
-I am an assistant research engineer, who is developing fMRI preprocessing & analysis software, [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/) at [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/). In this role, I have implemented neuroimaging analysis packages such as AFNI, FSL, ANTs, and FreeSurfer, and contributed to the implementation and maintenance of user interface and data visualization tools for analysis pipelines. 
+### Software Development
+- Developed fMRI preprocessing & analysis software, [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), at [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/). 
+- Implemented neuroimaging analysis packages such as AFNI, FSL, ANTs, and FreeSurfer, and contributed to the implementation and maintenance of user interface and data visualization tools for analysis pipelines. 
 
 ### Skills
-
 Computer Skills: Python, MATLAB, Shell, Docker, Singularity, AWS
 Neuroimaging Tools: ANTs, AFNI, FSL, FreeSurfer, Nipype, Nilearn
 Languages: Korean(native), Chinese(native)
 
 
 
-## Conference
+### Conference
 
 **H. Jin** & X. Li. (2019) “fMRI Preprocessing with Containers: How to run C-PAC in Docker or Singularity.” Brainhack Global, New York, New York. November. [Oral Presentation]
 
