@@ -22,7 +22,7 @@ Languages: Korean(native), Chinese(native)
 
 
 
-## Conference and Publication
+## Conference
 
 **H. Jin** & X. Li. (2019) “fMRI Preprocessing with Containers: How to run C-PAC in Docker or Singularity.” Brainhack Global, New York, New York. November. [Oral Presentation]
 
