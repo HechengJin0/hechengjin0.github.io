@@ -17,9 +17,10 @@ I am an assistant research engineer, who is developing fMRI preprocessing & anal
 ### Skills
 
 Computer Skills: Python, MATLAB, Shell, Docker, Singularity, AWS
+
 Neuroimaging Tools: ANTs, AFNI, FSL, FreeSurfer, Nipype, Nilearn
 
-Native Languages: Korean, Chinese	
+Languages: Korean(native), Chinese(native)
 
 
 ### Conference
