@@ -12,7 +12,6 @@ Passionate about brain-behavior relationship research, especially using the neur
 
 
 
-
 ### Software Development
 - Developed fMRI preprocessing & analysis software, [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), at [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/). 
 - Implemented neuroimaging analysis packages such as AFNI, FSL, ANTs, and FreeSurfer, and contributed to the implementation and maintenance of user interface and data visualization tools for analysis pipelines. 
