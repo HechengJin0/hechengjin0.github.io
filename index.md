@@ -32,8 +32,10 @@ My interdisciplinary background spans electromagnetic simulation, MRI coil proto
 - Languages: Korean(native), Chinese(native)
 
 
-### Peer-Reviewed Publications
+### Awards
+- 1st Place in the Trainee Abstract Competition, MR Engineering Study Group, ISMRM 2025 Annual Meeting
 
+### Peer-Reviewed Publications
 Sajewski, A. N., Santini, T., DeFranco, A., Berardinelli, J., **Jin, H.**, Li, J., ... & Ibrahim, T. S. (2025). **RF shimming strategy for an open 60‐channel RF transmit 7T MRI head coil for routine use on the single transmit mode.** Magnetic Resonance in Medicine. https://doi.org/10.1002/mrm.30563
 
 Liou, J. J., Li, J., Berardinelli, J., **Jin, H.**, Santini, T., Noh, J., ... & Kofler, J. K. (2025). **Correlating hippocampal and amygdala volumes with neuropathological burden in Down syndrome and Alzheimer’s disease and related neurodegenerative pathologies using 7T postmortem MRI.** Journal of Neuropathology & Experimental Neurology, 84(5), 364-378. https://doi.org/10.1093/jnen/nlaf010
@@ -52,18 +54,19 @@ Milham, M., Petkov, C., Belin, P., Hamed, S. B., Evrard, H., Fair, D., ... & Ort
 
 
 ### Selected Conference Presentations
+**Jin, H.**, Santini, T., Sajewski, A. N., Berardinelli,  J. P., Li, J., Chu, C., deAlmeida, B., Campos, T., Liou, J. J., DeFranco, A., Aizenstein, H. J., & Ibrahim, T. S. (2025). **Design and implementation of a 1H/31P dual-tuned head coil at 7T.** International Society for Magnetic Resonance in Medicine (ISMRM) 2025 Annual Meeting, Honolulu, United States. May. [Poster]
 
 **Jin, H.**, Stetten, G., Wang, L., Chi, Y., Yang, S., Ibrahim, T. S., Aizenstein, H. J., & Wu, M. (2024). **Exploring Venular Morphological Markers in Cerebral Small Vessel Disease: A 7T MRI Study.** Organization for Human Brain Mapping (OHBM) 2024 Annual Meeting, Seoul, South Korea. June. [Poster]
 
-**Jin, H.**, Sajewski, A. N., Santini, T., Martins, T., Berardinelli,  J. P., DeFranco, A., Aizenstein, H. J., & Ibrahim, T. S. (2023). **Investigating the impact of head position on the spatial distribution of B1+ field for a 60-ch Tx coil at 7T.** International Society for Magnetic Resonance in Medicine (ISMRM) 2023 Annual Meeting, Toronto, Canada. June. [Poster]
+**Jin, H.**, Sajewski, A. N., Santini, T., Martins, T., Berardinelli,  J. P., DeFranco, A., Aizenstein, H. J., & Ibrahim, T. S. (2023). **Investigating the impact of head position on the spatial distribution of B1+ field for a 60-ch Tx coil at 7T.** International Society for Magnetic Resonance in Medicine (ISMRM) 2023 Annual Meeting, Toronto, Canada. June. [[Poster](https://archive.ismrm.org/2023/4074.html)]
 
-Farhat, N., **Jin, H.**, Santini, T., Martins, T., Berardinelli, J., Schweitzer, N., Alkhateeb, S., Ikonomovic, M., Kofler, J., Mettenburg, J., Aizenstein, H. J., & Ibrahim, T. S. (2022). **Addressing ultra highfield MRI challenges in ex-vivo.** International Society for Magnetic Resonance in Medicine (ISMRM) 2022 Annual Meeting, London, United Kingdom. May. [Poster]
+Farhat, N., **Jin, H.**, Santini, T., Martins, T., Berardinelli, J., Schweitzer, N., Alkhateeb, S., Ikonomovic, M., Kofler, J., Mettenburg, J., Aizenstein, H. J., & Ibrahim, T. S. (2022). **Addressing ultra highfield MRI challenges in ex-vivo.** International Society for Magnetic Resonance in Medicine (ISMRM) 2022 Annual Meeting, London, United Kingdom. May. [[Poster](https://archive.ismrm.org/2022/4846.html)]
 
-**Jin, H.**, Ramirez, J.S., Kiar, G., Mehta, R., Vogelstein, J.T., Milham, M.P., & Xu., T. (2021). **Assessing Functional Connectivity Beyond Pearson’s Correlation.** Organization for Human Brain Mapping (OHBM) 2021 Annual Meeting, Virtual. June. [[poster](/assets/poster/OHBM21_HJ_MGC_final.pdf)]
+**Jin, H.**, Ramirez, J.S., Kiar, G., Mehta, R., Vogelstein, J.T., Milham, M.P., & Xu., T. (2021). **Assessing Functional Connectivity Beyond Pearson’s Correlation.** Organization for Human Brain Mapping (OHBM) 2021 Annual Meeting, Virtual. June. [[Poster](/assets/poster/OHBM21_HJ_MGC_final.pdf)]
 
-Giavasis, S., Jon Clucas, M. I. S., Li, X., Jin, H., Ai, L., Heinsfeld, A. S., ... & Milham, M. (2021). **The Configurable Pipeline for the Analysis of Connectomes (C-PAC) 2020-21: Transitioning Out of Beta.** Organization for Human Brain Mapping (OHBM) 2021 Annual Meeting, Virtual. June. [[poster](/assets/poster/OHBM2021_CPAC.pdf)]
+Giavasis, S., Jon Clucas, M. I. S., Li, X., Jin, H., Ai, L., Heinsfeld, A. S., ... & Milham, M. (2021). **The Configurable Pipeline for the Analysis of Connectomes (C-PAC) 2020-21: Transitioning Out of Beta.** Organization for Human Brain Mapping (OHBM) 2021 Annual Meeting, Virtual. June. [[Poster](/assets/poster/OHBM2021_CPAC.pdf)]
 
-**Jin, H.**, Giavasis, S., Li, X., Solon, A., Ai, L., Franco, A.R., Ramirez, J.S., Wang, X., Gozzi, A., Pagani, M., Fox, A., Messinger, A., Fair, D. A., Keilholz, S., Russ, B., Xu, T., Craddock, R.C., & Milham, M.P. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** Organization for Human Brain Mapping (OHBM) 2020 Annual Meeting, Virtual. June. [[poster](/assets/poster/OHBM20_HJ.pdf)]
+**Jin, H.**, Giavasis, S., Li, X., Solon, A., Ai, L., Franco, A.R., Ramirez, J.S., Wang, X., Gozzi, A., Pagani, M., Fox, A., Messinger, A., Fair, D. A., Keilholz, S., Russ, B., Xu, T., Craddock, R.C., & Milham, M.P. (2020). **A Unified, End-to-End Pipeline Solution for Human and Nonhuman Functional Connectomics.** Organization for Human Brain Mapping (OHBM) 2020 Annual Meeting, Virtual. June. [[Poster](/assets/poster/OHBM20_HJ.pdf)]
 
 **Jin, H.** & Li, X. (2019) **fMRI Preprocessing with Containers: How to run C-PAC in Docker or Singularity.** Brainhack Global 2019, New York, United States. November. [Oral Presentation]
 
