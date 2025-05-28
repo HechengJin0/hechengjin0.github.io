@@ -8,7 +8,7 @@ Passionate about brain-behavior relationship research, especially using the neur
 
 [[GitHub](https://github.com/HechengJin0)]
 [[Twitter](https://twitter.com/Hecheng_Jin)]
-[[CV](/assets/cv/HechengJin_CV_2021Fall.pdf)]
+
 
 
 
