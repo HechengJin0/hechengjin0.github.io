@@ -35,7 +35,7 @@ My interdisciplinary background spans electromagnetic simulation, MRI coil proto
 ### Awards
 - 1st Place in the Trainee Abstract Competition, MR Engineering Study Group, ISMRM 2025 Annual Meeting
 
-### Peer-Reviewed Publications
+### Publications and Preprints
 Sajewski, A. N., Santini, T., DeFranco, A., Berardinelli, J., **Jin, H.**, Li, J., ... & Ibrahim, T. S. (2025). **RF shimming strategy for an open 60‐channel RF transmit 7T MRI head coil for routine use on the single transmit mode.** Magnetic Resonance in Medicine. https://doi.org/10.1002/mrm.30563
 
 Liou, J. J., Li, J., Berardinelli, J., **Jin, H.**, Santini, T., Noh, J., ... & Kofler, J. K. (2025). **Correlating hippocampal and amygdala volumes with neuropathological burden in Down syndrome and Alzheimer’s disease and related neurodegenerative pathologies using 7T postmortem MRI.** Journal of Neuropathology & Experimental Neurology, 84(5), 364-378. https://doi.org/10.1093/jnen/nlaf010
