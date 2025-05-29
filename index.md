@@ -38,21 +38,21 @@ My interdisciplinary background spans electromagnetic simulation, MRI coil proto
 
 
 ### Publications and Preprints
-Sajewski, A. N., Santini, T., DeFranco, A., Berardinelli, J., **Jin, H.**, Li, J., ... & Ibrahim, T. S. (2025). **RF shimming strategy for an open 60‐channel RF transmit 7T MRI head coil for routine use on the single transmit mode.** Magnetic Resonance in Medicine. https://doi.org/10.1002/mrm.30563
+Sajewski, A. N., Santini, T., DeFranco, A., Berardinelli, J., **Jin, H.**, Li, J., ... & Ibrahim, T. S. (2025). **RF shimming strategy for an open 60‐channel RF transmit 7T MRI head coil for routine use on the single transmit mode.** Magnetic Resonance in Medicine. [https://doi.org/10.1002/mrm.30563](https://doi.org/10.1002/mrm.30563)
 
-Liou, J. J., Li, J., Berardinelli, J., **Jin, H.**, Santini, T., Noh, J., ... & Kofler, J. K. (2025). **Correlating hippocampal and amygdala volumes with neuropathological burden in Down syndrome and Alzheimer’s disease and related neurodegenerative pathologies using 7T postmortem MRI.** Journal of Neuropathology & Experimental Neurology, 84(5), 364-378. https://doi.org/10.1093/jnen/nlaf010
+Liou, J. J., Li, J., Berardinelli, J., **Jin, H.**, Santini, T., Noh, J., ... & Kofler, J. K. (2025). **Correlating hippocampal and amygdala volumes with neuropathological burden in Down syndrome and Alzheimer’s disease and related neurodegenerative pathologies using 7T postmortem MRI.** Journal of Neuropathology & Experimental Neurology, 84(5), 364-378. [https://doi.org/10.1093/jnen/nlaf010](https://doi.org/10.1093/jnen/nlaf010)
 
-Chen, C. L., Son, S. J., Schweitzer, N., **Jin, H.**, Li, J., Wang, L., ... & Mayo Clinic Study of Aging. (2025). **Periventricular Diffusivity Reflects APOE4-modulated Amyloid Accumulation and Cognitive Impairment in Alzheimers Continuum.** bioRxiv, 2025-04. https://doi.org/10.1101/2025.04.28.651021 
+Chen, C. L., Son, S. J., Schweitzer, N., **Jin, H.**, Li, J., Wang, L., ... & Mayo Clinic Study of Aging. (2025). **Periventricular Diffusivity Reflects APOE4-modulated Amyloid Accumulation and Cognitive Impairment in Alzheimers Continuum.** bioRxiv, 2025-04. [https://doi.org/10.1101/2025.04.28.651021](https://doi.org/10.1101/2025.04.28.651021) 
 
-Chen, C. L., Torbati, M. E., Minhas, D. S., Laymon, C. M., Hwang, S. J., Bilgel, M., ... & Tudorascu, D. L. (2024). **Superpixel-ComBat modeling: A joint approach for harmonization and characterization of inter-scanner variability in T1-weighted images.** Imaging Neuroscience, 2, 1-21. https://doi.org/10.1162/imag_a_00306 
+Chen, C. L., Torbati, M. E., Minhas, D. S., Laymon, C. M., Hwang, S. J., Bilgel, M., ... & Tudorascu, D. L. (2024). **Superpixel-ComBat modeling: A joint approach for harmonization and characterization of inter-scanner variability in T1-weighted images.** Imaging Neuroscience, 2, 1-21. [[https://doi.org/10.1162/imag_a_00306](https://doi.org/10.1162/imag_a_00306)] 
 
-Li, X., Bianchini Esper, N., Ai, L., Giavasis, S., **Jin, H.**, Feczko, E., ... & Milham, M. P. (2024). **Moving beyond processing-and analysis-related variation in resting-state functional brain imaging.** Nature human behaviour, 8(10), 2003-2017. https://doi.org/10.1038/s41562-024-01942-4 
+Li, X., Bianchini Esper, N., Ai, L., Giavasis, S., **Jin, H.**, Feczko, E., ... & Milham, M. P. (2024). **Moving beyond processing-and analysis-related variation in resting-state functional brain imaging.** Nature human behaviour, 8(10), 2003-2017. [https://doi.org/10.1038/s41562-024-01942-4](https://doi.org/10.1038/s41562-024-01942-4) 
 
-Huang, Y., Faruque, S., Wu, M., Mizuno, A., Diniz, E., Yang, S., ... & Aizenstein, H. J. (2024). **Leveraging The Finite States of Emotion Processing to Study Late-Life Mental Health.** arXiv preprint arXiv:2403.03414. https://doi.org/10.48550/arXiv.2403.03414 
+Huang, Y., Faruque, S., Wu, M., Mizuno, A., Diniz, E., Yang, S., ... & Aizenstein, H. J. (2024). **Leveraging The Finite States of Emotion Processing to Study Late-Life Mental Health.** arXiv preprint arXiv:2403.03414. [https://doi.org/10.48550/arXiv.2403.03414](https://doi.org/10.48550/arXiv.2403.03414) 
 
-Nakamura, Y. T., Gu, Y., **Jin, H.**, Yu, D., Hinshaw, J., & Rehman, R. (2023). **Introducing neuroscience methods: an exploratory study on the role of reflection in developing leadership from a HRD perspective.** Human Resource Development International, 26(4), 458-470. https://doi.org/10.1080/13678868.2022.2094151 
+Nakamura, Y. T., Gu, Y., **Jin, H.**, Yu, D., Hinshaw, J., & Rehman, R. (2023). **Introducing neuroscience methods: an exploratory study on the role of reflection in developing leadership from a HRD perspective.** Human Resource Development International, 26(4), 458-470. [https://doi.org/10.1080/13678868.2022.2094151](https://doi.org/10.1080/13678868.2022.2094151) 
 
-Milham, M., Petkov, C., Belin, P., Hamed, S. B., Evrard, H., Fair, D., ... & Ortiz-Rios, M. (2022). **Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging.** Neuron, 110(1), 16-20. https://doi.org/10.1016/j.neuron.2021.10.015 
+Milham, M., Petkov, C., Belin, P., Hamed, S. B., Evrard, H., Fair, D., ... & Ortiz-Rios, M. (2022). **Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging.** Neuron, 110(1), 16-20. [https://doi.org/10.1016/j.neuron.2021.10.015](https://doi.org/10.1016/j.neuron.2021.10.015) 
 
 
 ### Selected Conference Presentations
