@@ -44,7 +44,7 @@ Liou, J. J., Li, J., Berardinelli, J., **Jin, H.**, Santini, T., Noh, J., ... & 
 
 Chen, C. L., Son, S. J., Schweitzer, N., **Jin, H.**, Li, J., Wang, L., ... & Mayo Clinic Study of Aging. (2025). **Periventricular Diffusivity Reflects APOE4-modulated Amyloid Accumulation and Cognitive Impairment in Alzheimers Continuum.** bioRxiv, 2025-04. [https://doi.org/10.1101/2025.04.28.651021](https://doi.org/10.1101/2025.04.28.651021) 
 
-Chen, C. L., Torbati, M. E., Minhas, D. S., Laymon, C. M., Hwang, S. J., Bilgel, M., ... & Tudorascu, D. L. (2024). **Superpixel-ComBat modeling: A joint approach for harmonization and characterization of inter-scanner variability in T1-weighted images.** Imaging Neuroscience, 2, 1-21. [[https://doi.org/10.1162/imag_a_00306](https://doi.org/10.1162/imag_a_00306)] 
+Chen, C. L., Torbati, M. E., Minhas, D. S., Laymon, C. M., Hwang, S. J., Bilgel, M., ... & Tudorascu, D. L. (2024). **Superpixel-ComBat modeling: A joint approach for harmonization and characterization of inter-scanner variability in T1-weighted images.** Imaging Neuroscience, 2, 1-21. [https://doi.org/10.1162/imag_a_00306](https://doi.org/10.1162/imag_a_00306) 
 
 Li, X., Bianchini Esper, N., Ai, L., Giavasis, S., **Jin, H.**, Feczko, E., ... & Milham, M. P. (2024). **Moving beyond processing-and analysis-related variation in resting-state functional brain imaging.** Nature human behaviour, 8(10), 2003-2017. [https://doi.org/10.1038/s41562-024-01942-4](https://doi.org/10.1038/s41562-024-01942-4) 
 
