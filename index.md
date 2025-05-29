@@ -33,7 +33,9 @@ My interdisciplinary background spans electromagnetic simulation, MRI coil proto
 
 
 ### Awards
-- 1st Place in the Trainee Abstract Competition, MR Engineering Study Group, ISMRM 2025 Annual Meeting
+- 1st Place in the Trainee Abstract Competition, MR Engineering Study Group, ISMRM Annual Meeting, 2025
+- Above and Beyond Staff Award, Child Mind Institute, 2021
+
 
 ### Publications and Preprints
 Sajewski, A. N., Santini, T., DeFranco, A., Berardinelli, J., **Jin, H.**, Li, J., ... & Ibrahim, T. S. (2025). **RF shimming strategy for an open 60‐channel RF transmit 7T MRI head coil for routine use on the single transmit mode.** Magnetic Resonance in Medicine. https://doi.org/10.1002/mrm.30563
