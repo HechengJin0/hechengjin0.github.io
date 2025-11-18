@@ -38,11 +38,11 @@ My interdisciplinary background spans electromagnetic simulation, MRI coil proto
 
 
 ### Publications and Preprints
+Chen, C. L., Son, S. J., Schweitzer, N., **Jin, H.**, Li, J., Wang, L., ... & Mayo Clinic Study of Aging. (2025). **Periventricular diffusivity reflects APOE ε4–modulated amyloid accumulation and cognitive impairment in the Alzheimer's disease continuum.** Alzheimer's & Dementia, 21(9), e70659.[https://doi.org/10.1002/alz.70659](https://doi.org/10.1002/alz.70659) 
+
 Sajewski, A. N., Santini, T., DeFranco, A., Berardinelli, J., **Jin, H.**, Li, J., ... & Ibrahim, T. S. (2025). **RF shimming strategy for an open 60‐channel RF transmit 7T MRI head coil for routine use on the single transmit mode.** Magnetic Resonance in Medicine. [https://doi.org/10.1002/mrm.30563](https://doi.org/10.1002/mrm.30563)
 
 Liou, J. J., Li, J., Berardinelli, J., **Jin, H.**, Santini, T., Noh, J., ... & Kofler, J. K. (2025). **Correlating hippocampal and amygdala volumes with neuropathological burden in Down syndrome and Alzheimer’s disease and related neurodegenerative pathologies using 7T postmortem MRI.** Journal of Neuropathology & Experimental Neurology, 84(5), 364-378. [https://doi.org/10.1093/jnen/nlaf010](https://doi.org/10.1093/jnen/nlaf010)
-
-Chen, C. L., Son, S. J., Schweitzer, N., **Jin, H.**, Li, J., Wang, L., ... & Mayo Clinic Study of Aging. (2025). **Periventricular Diffusivity Reflects APOE4-modulated Amyloid Accumulation and Cognitive Impairment in Alzheimers Continuum.** bioRxiv, 2025-04. [https://doi.org/10.1101/2025.04.28.651021](https://doi.org/10.1101/2025.04.28.651021) 
 
 Chen, C. L., Torbati, M. E., Minhas, D. S., Laymon, C. M., Hwang, S. J., Bilgel, M., ... & Tudorascu, D. L. (2024). **Superpixel-ComBat modeling: A joint approach for harmonization and characterization of inter-scanner variability in T1-weighted images.** Imaging Neuroscience, 2, 1-21. [https://doi.org/10.1162/imag_a_00306](https://doi.org/10.1162/imag_a_00306) 
 
@@ -56,7 +56,7 @@ Milham, M., Petkov, C., Belin, P., Hamed, S. B., Evrard, H., Fair, D., ... & Ort
 
 
 ### Selected Conference Presentations
-**Jin, H.**, Santini, T., Sajewski, A. N., Berardinelli,  J. P., Li, J., Chu, C., deAlmeida, B., Campos, T., Liou, J. J., DeFranco, A., Aizenstein, H. J., & Ibrahim, T. S. (2025). **Design and implementation of a 1H/31P dual-tuned head coil at 7T.** International Society for Magnetic Resonance in Medicine (ISMRM) 2025 Annual Meeting, Honolulu, United States. May. [Poster]
+**Jin, H.**, Santini, T., Sajewski, A. N., Berardinelli,  J. P., Li, J., Chu, C., deAlmeida, B., Campos, T., Liou, J. J., DeFranco, A., Aizenstein, H. J., & Ibrahim, T. S. (2025). **Design and implementation of a 1H/31P dual-tuned head coil at 7T.** International Society for Magnetic Resonance in Medicine (ISMRM) 2025 Annual Meeting, Honolulu, United States. May. [[Poster](https://archive.ismrm.org/2025/1529.html)]
 
 **Jin, H.**, Stetten, G., Wang, L., Chi, Y., Yang, S., Ibrahim, T. S., Aizenstein, H. J., & Wu, M. (2024). **Exploring Venular Morphological Markers in Cerebral Small Vessel Disease: A 7T MRI Study.** Organization for Human Brain Mapping (OHBM) 2024 Annual Meeting, Seoul, South Korea. June. [Poster]
 
