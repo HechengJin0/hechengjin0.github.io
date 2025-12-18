@@ -38,6 +38,8 @@ My interdisciplinary background spans electromagnetic simulation, MRI coil proto
 - News: https://news.engineering.pitt.edu/hecheng-jin-wins-first-place-poster-award-at-international-mri-conference/
 
 ### Publications and Preprints
+**Jin, H.**, Ramirez, J. S., Byeon, K., Russ, B. E., Falchier, A., Linn, G., ... & Xu, T. (2025). **Is Pearson’s correlation coefficient enough for functional connectivity in fMRI?**. Imaging Neuroscience. [https://doi.org/10.1162/IMAG.a.1052](https://doi.org/10.1162/IMAG.a.1052) 
+
 Chen, C. L., Son, S. J., Schweitzer, N., **Jin, H.**, Li, J., Wang, L., ... & Mayo Clinic Study of Aging. (2025). **Periventricular diffusivity reflects APOE ε4–modulated amyloid accumulation and cognitive impairment in the Alzheimer's disease continuum.** Alzheimer's & Dementia, 21(9), e70659. [https://doi.org/10.1002/alz.70659](https://doi.org/10.1002/alz.70659) 
 
 Sajewski, A. N., Santini, T., DeFranco, A., Berardinelli, J., **Jin, H.**, Li, J., ... & Ibrahim, T. S. (2025). **RF shimming strategy for an open 60‐channel RF transmit 7T MRI head coil for routine use on the single transmit mode.** Magnetic Resonance in Medicine. [https://doi.org/10.1002/mrm.30563](https://doi.org/10.1002/mrm.30563)
