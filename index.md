@@ -7,7 +7,7 @@ I’m Jin, a Ph.D. candidate in Bioengineering at the [University of Pittsburgh]
 
 Before beginning my Ph.D., I worked as a research engineer at the [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/), where I helped develop the [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), an open-source platform for fMRI preprocessing and analysis. My work there involved integrating neuroimaging toolkits, building reproducible workflows, and developing data visualization interfaces for brain imaging research.
 
-My interdisciplinary background spans electromagnetic simulation, MRI coil prototyping, neuroimaging analysis, and software development. I am passionate about applying technical innovation to biomedical challenges, particularly in **medical imaging, RF systems, and brain-computer interface technologies**. I’m currently seeking industry roles where I can contribute to the development of advanced healthcare technologies.
+My interdisciplinary background spans electromagnetic simulation, MRI coil prototyping, neuroimaging analysis, and software development. I am passionate about applying technical innovation to biomedical challenges, particularly in **RF systems, brain-computer interface technologies, and medical imaging**. I’m currently seeking industry roles where I can contribute to the development of advanced healthcare technologies.
 
 [[GitHub](https://github.com/HechengJin0)]
 [[LinkedIn](https://www.linkedin.com/in/hecheng-jin)]
