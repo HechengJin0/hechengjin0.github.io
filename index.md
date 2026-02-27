@@ -17,7 +17,7 @@ My interdisciplinary background spans electromagnetic simulation, hardware proto
 
 
 ### Hardware & Simulation
-- Designed and engineered high-density, dual-tuned RF antenna arrays (300MHz/120MHz) for 7T MRI.
+- Designed and engineered high-density, dual-tuned RF antenna arrays ([300MHz/120MHz](/assets/abstract/ISMRM2025_31Pcoil_download.pdf)) for 7T MRI.
 - Optimized EM field distribution and SAR.
 - Executed hardware fabrication, including PCB design, 3D printing, and the integration of active RF components (T/R switches, amplifiers, and power splitters).
 - Executed hardware validation using VNAs (S-parameters), system-level integration, and human-subject functional testing.
