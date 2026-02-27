@@ -3,11 +3,12 @@ layout: default
 ---
 
 ### Bio
-I’m Jin, a Ph.D. candidate in Bioengineering at the [University of Pittsburgh](https://rf-research-facility.engineering.pitt.edu/), specializing in **RF simulation, MRI hardware design, and neuroimaging**. My research focuses on the development of advanced RF head coils for ultra-high field (7T) MRI, including the design, simulation, and manufacturing of multi-nuclear (¹H/³¹P) coil systems aimed at improving structural and metabolic imaging of the human brain.
+I’m Jin, a PhD candidate in Bioengineering at the [University of Pittsburgh](https://rf-research-facility.engineering.pitt.edu/), specializing in **RF design, EM simulation, and hardware implementation**. My PhD research focuses on the development of high-density RF antenna arrays for ultra-high-field systems (7T MRI). I have designed and delivered a 60-channel dual-band (300MHz/120MHz) RF system, owning the entire lifecycle from initial FDTD EM modeling and physical prototyping to final in vivo human-subject validation. I specialized in optimizing large-scale antenna arrays to ensure high field homogeneity and signal integrity in complex environments.
 
-Before beginning my Ph.D., I worked as a research engineer at the [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/), where I helped develop the [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), an open-source platform for fMRI preprocessing and analysis. My work there involved integrating neuroimaging toolkits, building reproducible workflows, and developing data visualization interfaces for brain imaging research.
+Before beginning my Ph.D., I worked as an assistant research engineer at the [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/), where I helped scale the [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), a Python-based open-source platform for fMRI signal processing and analysis. My work there involved integrating neuroimaging toolkits, building reproducible workflows, and developing data visualization interfaces for global research teams.
 
-My interdisciplinary background spans electromagnetic simulation, MRI coil prototyping, neuroimaging analysis, and software development. I am passionate about applying technical innovation to biomedical challenges, particularly in **RF systems, brain-computer interface technologies, and medical imaging**. I’m currently seeking industry roles where I can contribute to the development of advanced healthcare technologies.
+My interdisciplinary background spans electromagnetic simulation, hardware prototyping, signal processing, and software development. I am passionate about applying technical innovation to human-interactive systems, particularly in **RF hardware, antenna design, and brain-computer interface technologies**. I am currently seeking industry roles in autonomous systems and wearable devices, where I can contribute to the development of advanced hardware platforms and next-generation solutions.
+
 
 [[GitHub](https://github.com/HechengJin0)]
 [[LinkedIn](https://www.linkedin.com/in/hecheng-jin)]
@@ -16,26 +17,26 @@ My interdisciplinary background spans electromagnetic simulation, MRI coil proto
 
 
 ### Hardware & Simulation
-- Designed RF head coils for 7T MRI (¹H/³¹P)
-- Simulated and optimized electromagnetic fields
-- Manufactured MRI coils
-
+- Designed and engineered high-density, dual-tuned RF antenna arrays (300MHz/120MHz) for 7T MRI.
+- Optimized EM field distribution and SAR.
+- Executed hardware fabrication, including PCB design, 3D printing, and the integration of active RF components (T/R switches, amplifiers, and power splitters).
+- Executed hardware validation using VNAs (S-parameters), system-level integration, and human-subject functional testing.
 
 ### Software & Analysis
-- Developed fMRI preprocessing software [C-PAC](https://fcp-indi.github.io/), integrating neuroimaging packages and maintaining UI and visualization tools for analysis workflows
-- Preprocessed MRI data including T1w, T2w, SWI, and other modalities for research studies
+- Scaled fMRI signal processing software [C-PAC](https://fcp-indi.github.io/), integrating neuroimaging packages and maintaining UI and visualization tools for analysis workflows.
+- Preprocessed MRI data including T1w, T2w, SWI, and other modalities for research studies.
 
 
 ### Tools & Skills
-- **Computer Skills**: MATLAB, Python, Shell, C, Docker, Singularity, AWS
+- **Computer Skills**: MATLAB, Python, Bash, C, Docker, Singularity, AWS
 - **Neuroimaging Tools**: ANTs, AFNI, FSL, FreeSurfer, Nipype, Nilearn
-- Languages: Korean(native), Chinese(native)
+- Languages: Korean(native), Mandarin Chinese(native)
 
 
 ### Awards
 - 1st Place in the Trainee Abstract Competition, MR Engineering Study Group, ISMRM Annual Meeting, 2025
 - Above and Beyond Staff Award, Child Mind Institute, 2021
-- News: https://news.engineering.pitt.edu/hecheng-jin-wins-first-place-poster-award-at-international-mri-conference/
+- News: [https://news.engineering.pitt.edu/hecheng-jin-wins-first-place-poster-award-at-international-mri-conference/](https://news.engineering.pitt.edu/hecheng-jin-wins-first-place-poster-award-at-international-mri-conference/)
 
 ### Publications and Preprints
 **Jin, H.**, Ramirez, J. S., Byeon, K., Russ, B. E., Falchier, A., Linn, G., ... & Xu, T. (2025). **Is Pearson’s correlation coefficient enough for functional connectivity in fMRI?**. Imaging Neuroscience. [https://doi.org/10.1162/IMAG.a.1052](https://doi.org/10.1162/IMAG.a.1052) 
