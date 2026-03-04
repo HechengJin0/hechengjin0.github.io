@@ -7,7 +7,7 @@ I’m Jin, a PhD candidate in Bioengineering at the [University of Pittsburgh](h
 
 Before beginning my Ph.D., I worked as an assistant research engineer at the [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/), where I helped scale the [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), a Python-based open-source platform for fMRI signal processing and analysis. My work there involved integrating neuroimaging toolkits, building reproducible workflows, and developing data visualization interfaces for global research teams.
 
-My interdisciplinary background spans electromagnetic simulation, hardware prototyping, signal processing, and software development. I am passionate about applying technical innovation to human-interactive systems, particularly in **RF hardware, antenna design, and brain-computer interface technologies**. I am currently seeking industry roles in autonomous systems and wearable devices, where I can contribute to the development of advanced hardware platforms and next-generation solutions.
+My interdisciplinary background spans electromagnetic simulation, hardware prototyping, signal processing, and software development. I am passionate about applying technical innovation to human-interactive systems, particularly in **wearable devices, antenna design, and brain-computer interface technologies**. I am currently seeking industry roles in autonomous systems and wearable devices, where I can contribute to the development of advanced hardware platforms and next-generation solutions.
 
 
 [[GitHub](https://github.com/HechengJin0)]
@@ -19,12 +19,12 @@ My interdisciplinary background spans electromagnetic simulation, hardware proto
 ### Hardware & Simulation
 - Designed and engineered high-density, dual-tuned RF antenna arrays ([300MHz/120MHz](/assets/abstract/ISMRM2025_31Pcoil_download.pdf)) for 7T MRI.
 - Optimized EM field distribution and SAR.
-- Executed hardware fabrication, including PCB design, 3D printing, and the integration of active RF components (T/R switches, amplifiers, and power splitters).
+- Executed hardware fabrication, including PCB design, 3D printing, and the integration of active RF components (T/R switches, preamplifiers, and power splitters).
 - Executed hardware validation using VNAs (S-parameters), system-level integration, and human-subject functional testing.
 
 ### Software & Analysis
 - Scaled fMRI signal processing software [C-PAC](https://fcp-indi.github.io/), integrating neuroimaging packages and maintaining UI and visualization tools for analysis workflows.
-- Preprocessed MRI data including T1w, T2w, SWI, and other modalities for research studies.
+- Preprocessed MRI data including T1w, T2w, SWI, fMRI, and other modalities for research studies.
 
 
 ### Tools & Skills
