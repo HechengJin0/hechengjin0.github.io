@@ -7,7 +7,7 @@ I’m Jin, a PhD candidate in Bioengineering at the [University of Pittsburgh](h
 
 Before beginning my Ph.D., I worked as an assistant research engineer at the [Child Mind Institute](https://childmind.org/center/computational-neuroimaging-lab/), where I helped scale the [Configurable Pipeline for the Analysis of Connectomes (C-PAC)](https://fcp-indi.github.io/), a Python-based open-source platform for fMRI signal processing and analysis. My work there involved integrating neuroimaging toolkits, building reproducible workflows, and developing data visualization interfaces for global research teams.
 
-My interdisciplinary background spans electromagnetic simulation, hardware prototyping, signal processing, and software development. I am passionate about applying technical innovation to human-interactive systems, particularly in **wearables and autonomous platforms**. I am currently seeking industry roles in autonomous systems and wearable devices, where I can contribute to the development of advanced hardware platforms and next-generation solutions.
+My interdisciplinary background spans electromagnetic simulation, hardware prototyping, signal processing, and software development. I am currently seeking industry roles in **autonomous systems and wearable devices**, where I can contribute to the development of advanced hardware platforms and next-generation solutions.
 
 
 [[GitHub](https://github.com/HechengJin0)]
